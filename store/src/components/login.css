@@ -1,0 +1,48 @@
+.container {
+  max-width: 500px;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn {
+  border-radius: 5px;
+}
+
+label {
+  font-weight: 500;
+}
+
+input::placeholder {
+  color: #a9a9a9;
+}
+
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.mt-5 {
+  margin-top: 3rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem !important;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
